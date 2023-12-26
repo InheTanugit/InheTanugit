@@ -5,7 +5,6 @@
    - **Database:** MongoDB for efficient and flexible data storage.
 - 🚀 Excited to learn more about full-stack development and how to integrate these technologies to create robust and scalable web applications.
 - 🌱 Currently working on personal projects to apply and solidify my knowledge.
-- 🌐 Let's connect on [LinkedIn](https://www.linkedin.com/in/tanushree-inhe-5a715115a/) 
 - Happy coding! 🚀😄
 
 <!---
