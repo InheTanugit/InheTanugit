@@ -1,11 +1,21 @@
-- 👋 Hi, I’m @InheTanugit, an aspiring MERN stack developer on a journey to explore the world of web development!
-- 💻 I'm currently honing my skills in:
-   - **Frontend:** React.js for building interactive user interfaces.
-   - **Backend:** Node.js and Express.js for server-side development.
-   - **Database:** MongoDB for efficient and flexible data storage.
-- 🚀 Excited to learn more about full-stack development and how to integrate these technologies to create robust and scalable web applications.
-- 🌱 Currently working on personal projects to apply and solidify my knowledge.
+- 👋 Hi, I’m @InheTanugit!
+I’m an aspiring MERN stack developer and automation tester passionate about building scalable web applications and ensuring software quality through automated testing. My journey revolves around mastering both full-stack development and test automation to create robust and efficient digital solutions.
+
+💻 Tech Stack:
+: Frontend : React.js – Crafting dynamic and interactive user experiences.
+Backend: Node.js & Express.js – Developing robust and efficient server-side applications.
+Database: MongoDB – Ensuring flexible and scalable data management.
+Automation Testing: Selenium with TestNG & Jenkins – Automating UI workflows and integration testing.
+🚀 What I’m Working On:
+Building full-stack projects to strengthen my development skills.
+Conducting integration testing with Selenium, TestNG, and Jenkins.
+Implementing Extent Reports for detailed test result visualization and integrating it with Jenkins for automated reporting.
+🌱 Goals:
+Advance my expertise in full-stack development by integrating modern web technologies.
+Enhance my test automation skills to optimize software quality and efficiency.
+I’m always open to learning, collaborating, and taking on new challenges. Let’s connect and build something amazing! 
 - Happy coding! 🚀😄
+
 
 <!---
 InheTanugit/InheTanugit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
